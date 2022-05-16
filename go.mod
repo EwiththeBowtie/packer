@@ -118,7 +118,7 @@ require (
 	github.com/tencentcloud/tencentcloud-sdk-go v3.0.71+incompatible
 	github.com/ucloud/ucloud-sdk-go v0.8.7
 	github.com/ugorji/go v0.0.0-20151218193438-646ae4a518c1
-	github.com/ulikunitz/xz v0.5.5
+	github.com/ulikunitz/xz v0.5.8
 	github.com/vmware/govmomi v0.0.0-20170707011325-c2105a174311
 	github.com/xanzy/go-cloudstack v0.0.0-20190526095453-42f262b63ed0
 	github.com/yandex-cloud/go-genproto v0.0.0-20190802103534-6089d9ff8d82
